@@ -210,21 +210,21 @@ namespace Packet_Lab
             // tsmiConfigure
             // 
             this.tsmiConfigure.Name = "tsmiConfigure";
-            this.tsmiConfigure.Size = new System.Drawing.Size(180, 22);
+            this.tsmiConfigure.Size = new System.Drawing.Size(127, 22);
             this.tsmiConfigure.Text = "Configure";
             this.tsmiConfigure.Click += new System.EventHandler(this.tsmiConfigure_Click);
             // 
             // tsmiOpenPort
             // 
             this.tsmiOpenPort.Name = "tsmiOpenPort";
-            this.tsmiOpenPort.Size = new System.Drawing.Size(180, 22);
+            this.tsmiOpenPort.Size = new System.Drawing.Size(127, 22);
             this.tsmiOpenPort.Text = "Open";
             this.tsmiOpenPort.Click += new System.EventHandler(this.tsmiOpenPort_Click);
             // 
             // tsmiClosePort
             // 
             this.tsmiClosePort.Name = "tsmiClosePort";
-            this.tsmiClosePort.Size = new System.Drawing.Size(180, 22);
+            this.tsmiClosePort.Size = new System.Drawing.Size(127, 22);
             this.tsmiClosePort.Text = "Close";
             this.tsmiClosePort.Click += new System.EventHandler(this.tsmiClosePort_Click);
             // 

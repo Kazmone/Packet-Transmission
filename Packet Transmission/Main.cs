@@ -698,7 +698,5 @@ namespace Packet_Lab
                 currTran = Transmission.SOH_WR;
             }
         }
-
-
     }
 }

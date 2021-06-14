@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packet Lab", "Packet Lab\Packet Lab.csproj", "{12D28C3E-53CF-4339-9485-931A7CC03D9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packet Transmission", "Packet Transmission\Packet Transmission.csproj", "{12D28C3E-53CF-4339-9485-931A7CC03D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
