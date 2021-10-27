@@ -124,7 +124,7 @@ namespace Packet_Lab
             OpenFileDialog fileDialog = new OpenFileDialog();
 
             // Ininitalize file search to current folder
-            fileDialog.InitialDirectory = "C:/Users/%USERPROFILE%/source/repos/PacketLab/PacketLab"; // TODO: Path.Combine(Application.StartupPath, ""); Change back to this before submitting
+            fileDialog.InitialDirectory = "C:/Users/%USERPROFILE%/source/repos/PacketLab/PacketLab";
 
             // Filter for only text files
             fileDialog.Filter = "Text Files (*.txt) | *.txt";
