@@ -1,5 +1,5 @@
 # Packet-Transmission
-This application that uses serial port communication to transmit packets with CRC error checking. 
+This application uses serial port communication to transmit packets with CRC error checking. 
 
 The user must have COM ports configured as follows:
 > Local bridge between COM1 and COM2
